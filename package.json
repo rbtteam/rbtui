@@ -1,4 +1,5 @@
 {
+  "name": "rbtui",
   "version": "1.0.0",
   "private": false,
   "packageManager": "pnpm@7.3.0",
@@ -7,6 +8,7 @@
     "play",
     "docs"
   ],
+  "description": "rbtui",
   "scripts": {
     "cz": "czg",
     "test": "vitest",
