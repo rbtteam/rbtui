@@ -1,5 +1,5 @@
 {
-  "private": true,
+  "private": false,
   "packageManager": "pnpm@7.3.0",
   "workspaces": [
     "packages/*",
